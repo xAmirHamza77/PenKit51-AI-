@@ -2,14 +2,6 @@
 
 <img src="assets/github-banner.png" alt="penkit51 AI — AI-Powered Penetration Testing Platform" width="100%">
 
-<br><br>
-
-<img src="assets/logo.png" alt="penkit51 AI logo" width="96" height="96">
-
-<h1>
-  <span>penkit</span><span style="color:#ff6b35">51</span> <span style="color:#00d4aa">AI</span>
-</h1>
-
 <p><strong>The open-source AI penetration testing platform with 63 deep exploitation skills, multi-agent orchestration, and cross-platform assistant support.</strong></p>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -210,7 +202,7 @@ python3 scripts/sanitize_names.py
 
 <div align="center">
 
-<img src="assets/logo-icon.svg" alt="" width="48" height="48">
+<img src="assets/logo.png" alt="penkit51 AI" width="64" height="64">
 
 <br>
 

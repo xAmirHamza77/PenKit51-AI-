@@ -1,0 +1,6 @@
+.DS_Store
+upstream/
+.backup-*/
+dist/
+SKILL_MANIFEST.txt
+grok-skills/
